@@ -8,6 +8,7 @@ I am Yongye Liu, an MPhil candidate from the Hong Kong University of Science and
     <img alt="Stata" src="https://img.shields.io/badge/-Stata-393c61?style=flat-square&logo=Stata&logoColor=white" />
 </p>
 
+![Readme Card 1](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=liuyongye&hide=Mathematica,html)
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src ="https://github-readme-stats.vercel.app/api?username=liuyongye&count_private-trues&show_icons=true&theme=derk" />
 </a>
