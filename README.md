@@ -9,7 +9,7 @@ I am Yongye Liu, an MPhil candidate from the Hong Kong University of Science and
 </p>
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src ="https://github-readme-stats.vercel.app/api?username=liuyongye&count_private-trues&show_icons=true&theme=radical" />
+  <img align="center" src ="https://github-readme-stats.vercel.app/api?username=liuyongye&count_private-trues&show_icons=true&theme=transparent" />
 </a>
 
 
