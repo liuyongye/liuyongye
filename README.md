@@ -1,5 +1,12 @@
 # Hi, Welcome to my GitHub. 👋
 
+
+## My stack
+<p>  
+    <img alt="R" src="https://img.shields.io/badge/-R-165caa?style=flat-square&logo=R&logoColor=white" />
+    <img alt="Stata" src="https://img.shields.io/badge/-Stata-393c61?style=flat-square&logo=Stata&logoColor=white" />
+</p>
+
 <!--
 **liuyongye/liuyongye** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
