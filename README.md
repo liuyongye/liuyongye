@@ -2,6 +2,11 @@
 
 I am Yongye Liu, an MPhil candidate from the Hong Kong University of Science and Technology (Guangzhou).
 
+<p>
+<a href="https://www.linkedin.com/in/yongye-liu-020321111/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> 
+<a href="https://twitter.com/Yongye7" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a>
+</p>
+
 ## My stack
 <p>  
     <img alt="R" src="https://img.shields.io/badge/-R-165caa?style=flat-square&logo=R&logoColor=white" />
